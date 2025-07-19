@@ -1,5 +1,3 @@
-# KRIVANJA
-
 Welcome to KRIVANJA! This organization is dedicated to exploring cutting-edge technologies and creative pursuits. Our focus spans across various domains, fostering innovation and collaboration.
 
 ## Projects
