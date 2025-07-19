@@ -37,6 +37,9 @@ Welcome to KRIVANJA! This organization is dedicated to exploring cutting-edge te
 ## Social Links
 
 Connect with us across platforms:
+- [Blog](https://articles-krivanja.blogspot.com)
 - [Facebook](https://www.facebook.com/krivanja)
+- [LinkedIn](https://www.linkedin.com/company/krivanja)
+- [Tumblr](https://www.tumblr.com/krivanja)
+- [Twitter](https://www.x.com/krivanja)
 - [YouTube](https://www.youtube.com/krivanja)
-- [LinkedIn](https://www.linkedin.com/krivanja)
