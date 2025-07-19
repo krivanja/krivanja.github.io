@@ -1,6 +1,6 @@
 Welcome to KRIVANJA! This organization is dedicated to exploring cutting-edge technologies and creative pursuits. Our focus spans across various domains, fostering innovation and collaboration.
 
-![A beautiful sunrise over the mountains](images/sunrise.jpg)
+![A beautiful sunrise over the mountains](krivanja_background.png)
 
 *A beautiful sunrise over the mountain range in summer.*
 
