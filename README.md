@@ -1,8 +1,7 @@
 Welcome to KRIVANJA! This organization is dedicated to exploring cutting-edge technologies and creative pursuits. Our focus spans across various domains, fostering innovation and collaboration.
 
-![A beautiful sunrise over the mountains](krivanja_background.png)
-
-*A beautiful sunrise over the mountain range in summer.*
+![A stylized orange-themed illustration featuring a blend of technology and engineering concepts—including a computer screen with mechanical components, a microchip, gears, a circuit-integrated brain, code snippet, and technical books.](krivanja_background.png)
+*Visualizing the synergy between digital intelligence, hardware innovation, and creative engineering—where code meets circuitry and ideas become reality.*
 
 ## Projects
 
