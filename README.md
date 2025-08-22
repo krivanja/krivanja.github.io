@@ -2,6 +2,7 @@ Welcome to KRIVANJA!
 
 ## Apps
 
+- [Color Picker](https://krivanja.app/color-picker/)
 - [Random Number Generator](https://krivanja.app/random-number-generator/)
 
 ## Social Links
