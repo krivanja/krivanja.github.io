@@ -2,6 +2,7 @@ Welcome to KRIVANJA!
 
 ## Apps
 
+- [Blockly Games](https://krivanja.app/blockly-games/)
 - [Color Picker](https://krivanja.app/color-picker/)
 - [Random Number Generator](https://krivanja.app/random-number-generator/)
 - [Stop Watch](https://krivanja.app/stop-watch/)
