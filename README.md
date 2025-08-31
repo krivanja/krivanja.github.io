@@ -7,6 +7,7 @@ Have fun exploring these apps!!!
 - [Flappy Bird](https://krivanja.app/flappy-bird/)
 - [Maze](https://krivanja.app/maze/)
 - [Mini Sudoku](https://krivanja.app/mini-sudoku/)
+- [Ping Pong](https://krivanja.app/ping-pong/)
 - [Random Number Generator](https://krivanja.app/random-number-generator/)
 - [Rock Paper Scissors](https://krivanja.app/rock-paper-scissors/)
 - [Stop Watch](https://krivanja.app/stop-watch/)
