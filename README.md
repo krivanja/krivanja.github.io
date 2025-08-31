@@ -8,6 +8,7 @@ Have fun exploring these apps!!!
 - [Mini Sudoku](https://krivanja.app/mini-sudoku/)
 - [Random Number Generator](https://krivanja.app/random-number-generator/)
 - [Rock Paper Scissors](https://krivanja.app/rock-paper-scissors/)
+- [Snake](https://krivanja.app/snake/)
 - [Stop Watch](https://krivanja.app/stop-watch/)
 - [Tic Tac Toe](https://krivanja.app/tic-tac-toe/)
 - [Timer](https://krivanja.app/timer/)
