@@ -13,3 +13,4 @@ Have fun exploring these apps!!!
 - [Stop Watch](https://krivanja.app/stop-watch/)
 - [Tic Tac Toe](https://krivanja.app/tic-tac-toe/)
 - [Timer](https://krivanja.app/timer/)
+- [Zip](https://krivanja.app/zip/)
