@@ -2,6 +2,7 @@ Have fun exploring these apps!!!
 
 ## Apps
 
+- [2048](https://krivanja.app/2048/)
 - [Blockly Games](https://krivanja.app/blockly-games/)
 - [Color Picker](https://krivanja.app/color-picker/)
 - [Flappy Bird](https://krivanja.app/flappy-bird/)
